@@ -1,0 +1,25 @@
+{
+  "name": "json-to-srt-converter",
+  "version": "1.0.0",
+  "description": "Convert JSON SRT  to SRT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richmond998999/json-to-srt-converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richmond998999/json-to-srt-converter/issues"
+  },
+  "homepage": "https://github.com/richmond998999/json-to-srt-converter#readme",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1"
+  }
+}
